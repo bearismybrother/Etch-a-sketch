@@ -1,0 +1,24 @@
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    width:480px;
+    height:480px; 
+    border: 10px solid red;
+}
+
+.box{
+    width:30px;
+    height:30px;
+}
+
+.hover{
+    background-color:grey;
+}
+
+.painted{
+    background-color: blue;
+}
+
+button{
+    margin : 10px;
+}
